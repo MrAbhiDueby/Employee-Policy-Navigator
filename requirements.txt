@@ -1,0 +1,10 @@
+python-dotenv
+sqlalchemy
+psycopg[binary]
+
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+
+
+langgraph-checkpoint-sqlite
