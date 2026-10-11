@@ -4,7 +4,7 @@ An Agentic RAG system for employee policy and onboarding support.
 
 ## System Architecture
 
-![Employee Policy Navigator Architecture](4a6812dd-8129-41fa-af0e-a156daeeb6f2.png)
+![Employee Policy Navigator Architecture](employee-policy-navigator-architecture.png)
 
 ## Tech Stack
 
